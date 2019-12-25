@@ -3,4 +3,4 @@ prefix=%
 game=Command | %play
 stayinchannel=false
 songinstatus=true
-token=NTMyMTY2MTMwNzkwMzAxNzAw.XOHLRQ.XOcYHjJwOY9Kd1OIpLTRKZIb6_A
+token=NTMyMTYyNTEzNzMxNTg0MDAy.XgPawg.g_6yqV_EmsIIkL2WRV191PSne0E
