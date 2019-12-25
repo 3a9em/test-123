@@ -1,0 +1,6 @@
+owner=238717052368584714
+prefix=%
+game=Command | %play
+stayinchannel=false
+songinstatus=true
+token=NTMyMTY2MTMwNzkwMzAxNzAw.XOHLRQ.XOcYHjJwOY9Kd1OIpLTRKZIb6_A
